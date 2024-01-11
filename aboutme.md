@@ -13,4 +13,4 @@ Previously, I also completed a diploma of games programming with TAFE St'Leonard
 
 ### Epilogue
 I hope to become a valued member of a team, working with others of different skills and backgrounds. <br>
-I'm always happy to learn more. Reach out to me through my [Linkedin]([https://www.linkedin.com/in/joshua-joffe-28350a186/]) 
+I'm always happy to learn more. Reach out to me through my links in the footer below.
