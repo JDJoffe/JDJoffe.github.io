@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 23 and in Sydney AUS. Software development graduate
+subtitle: 23, Sydney AUS. Software development graduate
 ---
 
 ### Intro 
