@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: 23, Sydney AUS. Software development graduate
+subtitle: {{ site.time | date: '%y' }}, Sydney AUS. Software development graduate
 ---
-{{ site.time | date: '%y' }}
 ### Intro 
 Hi, I'm joshua and growing up I've always been interested in technology and dreamed of making things. After trying computer science in highschool I really felt I found what I wanted to do for my forseable future. 
 
