@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: 24, Sydney AUS. Software development graduate
-date: "`r Sys.Date()`"
 ---
 
 ### Intro 
