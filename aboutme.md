@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: 24, Sydney AUS. Software development graduate
+subtitle: AUS. Software development graduate
 ---
 
 ### Intro 
-Hi, I'm joshua and growing up I've always been interested in technology and dreamed of making things. After trying computer science in highschool I really felt I found what I wanted to do for my forseable future. 
+Hi, I'm joshua and growing up I've always been interested in technology and in making things. 
 
 ### Education
-I am a recent diploma graduate from TAFE Hornsby. With their help, I worked as a full-stack developer having created projects using React native and the .Net framework, each project using database technologies such as MongoDB and SQL Server respectively. <br>
-Previously, I also completed a diploma of games programming with TAFE St'Leonards, collaborating with those in the games art course. Even though after completion I saw that I would rather pursue other industries involving software development, the course taught me how to work with others of different skill sets.
+I am a TAFE graduate completing a diploma in Information Technology. My projects made during my time at TAFE were made with tools and technologies such as React native, the .Net framework, MongoDB and SQL Server. <br>
+In previous years, I also completed a diploma of Games Programming with TAFE.
 
-### Epilogue
-I hope to become a valued member of a team, working with others of different skills and backgrounds. <br>
+### Addendum
+For now, I am working on improving my skills as a hobby. <br>
 I'm always happy to learn more. Reach out to me through my links in the footer below.
